@@ -1,10 +1,3 @@
-"""
-CS101
-HW3
-Lillie Atkins
-Lab X
-October 3, 2017
-"""
 import turtle
 
 def drawSquare(length):
