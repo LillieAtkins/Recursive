@@ -1,10 +1,3 @@
-"""
-CS101
-HW4
-Lillie Atkins
-Lab X
-October 11, 2017
-"""
 import turtle
 import random
 
